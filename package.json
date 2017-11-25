@@ -1,4 +1,9 @@
 {
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/5slight/demo-gulp-project"
+  },
   "devDependencies": {
     "gulp": "latest",
     "gulp-if": "^2.0.2",
